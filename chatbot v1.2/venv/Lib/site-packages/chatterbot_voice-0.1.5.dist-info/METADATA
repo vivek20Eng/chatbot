@@ -1,0 +1,31 @@
+Metadata-Version: 2.0
+Name: chatterbot-voice
+Version: 0.1.5
+Summary: A voice interface adapter for ChatterBot.
+Home-page: https://github.com/gunthercox/chatterbot_voice
+Author: Gunther Cox
+Author-email: gunthercx@gmail.com
+License: MIT
+Keywords: ChatterBot,chatbot,chat,bot,speech,voice
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Environment :: Console
+Classifier: Environment :: Web Environment
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Communications :: Chat
+Classifier: Topic :: Internet
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Requires-Dist: ChatterBot (>=0.3.5,<0.7.0)
+Requires-Dist: SpeechRecognition (>=3.3.3)
+
+UNKNOWN
+
+
